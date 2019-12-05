@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T12:50:02.569Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="Sgj5a532JSAa1a1smsO0" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T12:51:31.593Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="5ZeGyWPrStNtw7sDipq0" version="12.3.7" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1467" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -77,9 +77,6 @@
         <mxCell id="WbAdpC1RyBdAqs78FfIe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WbAdpC1RyBdAqs78FfIe-3" target="WbAdpC1RyBdAqs78FfIe-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="WbAdpC1RyBdAqs78FfIe-3" value="请求附近社区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="85" width="120" height="60" as="geometry"/>
-        </mxCell>
         <mxCell id="WbAdpC1RyBdAqs78FfIe-5" value="请求附近社区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1210" y="85" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -117,6 +114,9 @@
         </mxCell>
         <mxCell id="WbAdpC1RyBdAqs78FfIe-25" value="Repository" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="740" y="50" width="430" height="840" as="geometry"/>
+        </mxCell>
+        <mxCell id="WbAdpC1RyBdAqs78FfIe-3" value="请求附近社区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WbAdpC1RyBdAqs78FfIe-25">
+          <mxGeometry x="120" y="35" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="WbAdpC1RyBdAqs78FfIe-26" value="ViewModel" style="swimlane;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="50" width="420" height="840" as="geometry"/>
